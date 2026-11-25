@@ -8,7 +8,7 @@ Développeur, créateur de sites et graphiste. Ici je range tous mes projets : c
 
 | Projet | Description |
 |---|---|
-| *Orbit MC* (à venir) | Réseau de serveurs Minecraft : plugins Paper, proxy Velocity |
+| [**Orbit MC**](https://github.com/zazoupjorbit-source/Orbit-MC) | Réseau Minecraft de l'univers ORBIT, cofondé avec Zazou : plugins Paper, proxy Velocity, panel de dev, site |
 
 ## 🌐 Sites
 
