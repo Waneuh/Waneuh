@@ -2,6 +2,12 @@
 
 Développeur, créateur de sites et graphiste. Ici je range tous mes projets : code, sites web et créations graphiques.
 
+[![Site](https://img.shields.io/badge/Site-wane--dev.netlify.app-7c3aed?style=flat&logo=netlify&logoColor=white)](https://wane-dev.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/GQARDw2Sce)
+[![Instagram](https://img.shields.io/badge/Instagram-@wanestudio-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wanestudio/)
+[![TikTok](https://img.shields.io/badge/TikTok-@wane.studio-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wane.studio)
+[![E-mail](https://img.shields.io/badge/E--mail-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wanestudio.contact@gmail.com)
+
 ---
 
 ## 💻 Dev
